@@ -1,7 +1,7 @@
 Objectif
 ========
 
-Créer un fichier journal nommé 'journal.txt' qui
+Créer, dans le coffre, un fichier journal nommé 'journal.txt' qui
 contiendra votre compte-rendu. Pour le moment, il
 suffit d'y mettre vos nom(s) et prénom(s)...
 
